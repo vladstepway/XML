@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<!--<office xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="file.xsd">-->
+<!--связывает документ с таблицей стилей XSL-->
+<!--office.xml -->
+<office name="chancellery">
+    <category name="бумажная продукция">
+        <product id="1">
+            <type>Продукт1</type>
+            <company>Компания1</company>
+            <country>Страна1</country>
+            <purpose>Цель1</purpose>
+            <cost currency="руб.">111111</cost>
+        </product>
+        <product id="2">
+            <type>Продукт2</type>
+            <company>Компания2</company>
+            <country>Страна2</country>
+            <purpose>Цель2</purpose>
+            <cost currency="руб.">222222</cost>
+        </product>
+        <product id="3">
+            <type>Продукт3</type>
+            <company>Компания3</company>
+            <country>Страна3</country>
+            <purpose>Цель3</purpose>
+            <cost currency="руб.">333333</cost>
+        </product>
+    </category>
+    <category name="механические принадлежности">
+        <product id="1">
+            <type>Продукт1</type>
+            <company>Компания1</company>
+            <country>Страна1</country>
+            <purpose>Цель1</purpose>
+            <cost currency="руб.">111111</cost>
+        </product>
+        <product id="2">
+            <type>Продукт2</type>
+            <company>Компания2</company>
+            <country>Страна2</country>
+            <purpose>Цель2</purpose>
+            <cost currency="руб.">222222</cost>
+        </product>
+        <product id="3">
+            <type>Продукт3</type>
+            <company>Компания3</company>
+            <country>Страна3</country>
+            <purpose>Цель3</purpose>
+            <cost currency="руб.">333333</cost>
+        </product>
+    </category>
+    <category name="письменные принадлежности">
+        <product id="1">
+            <type>Продукт1</type>
+            <company>Компания1</company>
+            <country>Страна1</country>
+            <purpose>Цель1</purpose>
+            <cost currency="руб.">111111</cost>
+        </product>
+        <product id="2">
+            <type>Продукт2</type>
+            <company>Компания2</company>
+            <country>Страна2</country>
+            <purpose>Цель2</purpose>
+            <cost currency="руб.">222222</cost>
+        </product>
+        <product id="3">
+            <type>Продукт3</type>
+            <company>Компания3</company>
+            <country>Страна3</country>
+            <purpose>Цель3</purpose>
+            <cost currency="руб.">333333</cost>
+        </product>
+    </category>
+    <category name="тетради">
+        <product id="1">
+            <type>Продукт1</type>
+            <company>Компания1</company>
+            <country>Страна1</country>
+            <purpose>Цель1</purpose>
+            <cost currency="руб.">111111</cost>
+        </product>
+        <product id="2">
+            <type>Продукт2</type>
+            <company>Компания2</company>
+            <country>Страна2</country>
+            <purpose>Цель2</purpose>
+            <cost currency="руб.">222222</cost>
+        </product>
+        <product id="3">
+            <type>Продукт3</type>
+            <company>Компания3</company>
+            <country>Страна3</country>
+            <purpose>Цель3</purpose>
+            <cost currency="руб.">333333</cost>
+        </product>
+    </category>
+    <category name="подарочные товары">
+        <product id="1">
+            <type>Продукт1</type>
+            <company>Компания1</company>
+            <country>Страна1</country>
+            <purpose>Цель1</purpose>
+            <cost currency="руб.">111111</cost>
+        </product>
+        <product id="2">
+            <type>Продукт2</type>
+            <company>Компания2</company>
+            <country>Страна2</country>
+            <purpose>Цель2</purpose>
+            <cost currency="руб.">222222</cost>
+        </product>
+        <product id="3">
+            <type>Продукт3</type>
+            <company>Компания3</company>
+            <country>Страна3</country>
+            <purpose>Цель3</purpose>
+            <cost currency="руб.">333333</cost>
+        </product>
+    </category>
+    <category name="товары для творчества">
+        <product id="1">
+            <type>Продукт1</type>
+            <company>Компания1</company>
+            <country>Страна1</country>
+            <purpose>Цель1</purpose>
+            <cost currency="руб.">111111</cost>
+        </product>
+        <product id="2">
+            <type>Продукт2</type>
+            <company>Компания2</company>
+            <country>Страна2</country>
+            <purpose>Цель2</purpose>
+            <cost currency="руб.">222222</cost>
+        </product>
+        <product id="3">
+            <type>Продукт3</type>
+            <company>Компания3</company>
+            <country>Страна3</country>
+            <purpose>Цель3</purpose>
+            <cost currency="руб.">333333</cost>
+        </product>
+    </category>
+    <category name="товары для организации рабочего места">
+        <product id="1">
+            <type>Продукт1</type>
+            <company>Компания1</company>
+            <country>Страна1</country>
+            <purpose>Цель1</purpose>
+            <cost currency="руб.">111111</cost>
+        </product>
+        <product id="2">
+            <type>Продукт2</type>
+            <company>Компания2</company>
+            <country>Страна2</country>
+            <purpose>Цель2</purpose>
+            <cost currency="руб.">222222</cost>
+        </product>
+        <product id="3">
+            <type>Продукт3</type>
+            <company>Компания3</company>
+            <country>Страна3</country>
+            <purpose>Цель3</purpose>
+            <cost currency="руб.">333333</cost>
+        </product>
+    </category>
+    <category name="изделия из пластика">
+        <product id="1">
+            <type>Продукт4</type>
+            <company>Компания4</company>
+            <country>Страна4</country>
+            <purpose>Цель4</purpose>
+            <cost currency="eur">444444</cost>
+        </product>
+        <product id="2">
+            <type>Продукт5</type>
+            <company>Компания5</company>
+            <country>Страна5</country>
+            <purpose>Цель5</purpose>
+            <cost currency="usd">555555</cost>
+        </product>
+    </category>
+</office>
